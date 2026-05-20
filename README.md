@@ -61,6 +61,6 @@ JOANA: você está tranquilo, mas precisa melhorar o foco para aumentar as entre
 Relatório gerado em: 17/11/2025 17:21:04
 ````
 
-👥 Integrantes do Grupo
-João Pedro de Souza Nunes    
-Guilherme Yuiti Matsushita Nakamura
+## 👥 Desenvolvido por:
+* **João Pedro de Souza Nunes** 
+* **Guilherme Yuiti Matsushita Nakamura**
